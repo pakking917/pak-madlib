@@ -1,8 +1,8 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
+# 🎈 madlib
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+
+Please download the text files and put in in the same directory as the python file to run it yourself
 
 ### How to run it on your own machine
 
